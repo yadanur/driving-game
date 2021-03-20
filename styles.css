@@ -3,6 +3,9 @@ body {
 }
 
 #race-car {
-  max-width: 15%;
+  position: absolute;
+  top: 40px;
+  left: 10px;
+  max-width: 13%;
   height: auto;
 }
